@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @riccardobonanomi, I'm a PhD candidate at C3A - University of Trento (Italy)
+- 👀 I’m interested in river morphodynamics and hydraulics
+- 📫 Feel free to write me at riccardo.bonanomi@unitn.it
