@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @riccardobonanomi, I'm a PhD student at C3A - University of Trento (Italy)
+- 👋 Hi, I’m @riccardobonanomi
 - 👀 I’m interested in river morphodynamics and hydraulics
 - 📚 I'm currently working at the Autorità di Bacino Distrettuale delle Alpi Orientali on flood hazard and risk mapping
